@@ -1,0 +1,15 @@
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/bin/Debug/net8.0/DataTypes-Variables
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/bin/Debug/net8.0/DataTypes-Variables.deps.json
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/bin/Debug/net8.0/DataTypes-Variables.runtimeconfig.json
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/bin/Debug/net8.0/DataTypes-Variables.dll
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/bin/Debug/net8.0/DataTypes-Variables.pdb
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/DataTypes-Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/DataTypes-Variables.AssemblyInfoInputs.cache
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/DataTypes-Variables.AssemblyInfo.cs
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/DataTypes-Variables.csproj.CoreCompileInputs.cache
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/DataTypes-Variables.sourcelink.json
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/DataTypes-Variables.dll
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/refint/DataTypes-Variables.dll
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/DataTypes-Variables.pdb
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/DataTypes-Variables.genruntimeconfig.cache
+/Users/roots/BbySharp-dev/Coding-Practice/CSharp/DataTypes-Variables/obj/Debug/net8.0/ref/DataTypes-Variables.dll

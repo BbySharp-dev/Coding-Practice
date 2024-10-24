@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{2FB09E6B-BAFB-4024-AF3C-5BECFA4A6DA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes-Variables", "CSharp\DataTypes-Variables\DataTypes-Variables.csproj", "{BDCFC5F7-F271-4808-9E8F-AF520A979AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCFC5F7-F271-4808-9E8F-AF520A979AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCFC5F7-F271-4808-9E8F-AF520A979AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCFC5F7-F271-4808-9E8F-AF520A979AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCFC5F7-F271-4808-9E8F-AF520A979AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BDCFC5F7-F271-4808-9E8F-AF520A979AE9} = {2FB09E6B-BAFB-4024-AF3C-5BECFA4A6DA7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16EC3E76-C38B-4CA5-A96D-26727789244E}
+	EndGlobalSection
+EndGlobal
